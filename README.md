@@ -1,14 +1,14 @@
 # example-api-DRF
 This is a example of project create with Django Rest Framework, for generate a simple API
 
-##Requeriments
+# Requeriments
 You requires the following:
 
 * Python 2.7
 * Django
 * djangorestframework
 
-##Installation
+# Installation
 First you need clone the project in your workspace:
 
 ```sh
